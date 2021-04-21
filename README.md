@@ -1,43 +1,4 @@
-<h1 align="center">
-  CMBF
-</h1>
-</div>
-<p align="center">
-  Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
-</p>
-<p align="center">
-
-### Screenshot
- <img src="https://github.com/Yayan-XD/cmbf/blob/main/img/Screenshot_2021_0417_235745.jpg" width="640" title="Menu" alt="Menu">
-</p>
-
-###### notice me: jika mendapatkan hasil cp, simpan 3/7hari lalu loginkan.
-
-<a href="https://github.com/Yayan-XD/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Yayan-XD/termux-style/stargazers/">
-  <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/cmbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Yayan-XD/cmbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Search" src="https://img.shields.io/github/search/Yayan-XD/Craker/cmbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Yayan-XD/cmbf.svg"/>
-  </a>
-<a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/cmbf.svg"/>
-  </a>
-
-<a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/cmbf.svg"/> <a href="https://github.com/Yayan-XD/cmbf">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Yayan-XD/cmbf.svg"/>
-  </a>
-</div>
-<p align="center">
+abuhurairarafa
 
 #### Install script on Termux
 ```bash
@@ -47,7 +8,7 @@ $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
 $ rm -rf cmbf
-$ git clone https://github.com/Yayan-XD/cmbf
+$ git clone https://github.com/abuhurairarafa/cmbf
 ```
 #### Run script
 ```bash
